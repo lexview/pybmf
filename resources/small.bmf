@@ -1,0 +1,160 @@
+STARTFONT 3.0
+FONT "Basic"
+CONTENTVERSION 1
+COMMENT "This is small font from bmplib"
+
+STARTCHAR U+0030
+ENCODING 48
+BBX 3 7
+STARTBITMAP
+" # "
+"# #"
+"# #"
+"# #"
+"# #"
+"# #"
+" # "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0031
+ENCODING 49
+BBX 3 7
+STARTBITMAP
+" #"
+"##"
+" #"
+" #"
+" #"
+" #"
+" #"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0032
+ENCODING 50
+BBX 3 7
+STARTBITMAP
+" # "
+"# #"
+"  #"
+" ##"
+"#  "
+"#  "
+"###"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0033
+ENCODING 51
+BBX 3 7
+STARTBITMAP
+"###"
+"  #"
+" # "
+"## "
+"  #"
+"# #"
+" # "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0034
+ENCODING 52
+BBX 3 7
+STARTBITMAP
+"# #"
+"# #"
+"# #"
+"###"
+"  #"
+"  #"
+"  #"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0035
+ENCODING 53
+BBX 3 7
+STARTBITMAP
+"###"
+"#  "
+"## "
+"  #"
+"  #"
+"# #"
+" # "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0036
+ENCODING 54
+BBX 3 7
+STARTBITMAP
+" # "
+"#  "
+"#  "
+"## "
+"# #"
+"# #"
+" # "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0037
+ENCODING 55
+BBX 3 7
+STARTBITMAP
+"###"
+"  #"
+"  #"
+" # "
+" # "
+" # "
+" # "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0038
+ENCODING 56
+BBX 3 7
+STARTBITMAP
+" # "
+"# #"
+"# #"
+" # "
+"# #"
+"# #"
+" # "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0039
+ENCODING 57
+BBX 3 7
+STARTBITMAP
+" # "
+"# #"
+"# #"
+" ##"
+"  #"
+" # "
+"#  "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002E
+ENCODING 46
+BBX 3 7
+STARTBITMAP
+" "
+" "
+" "
+" "
+" "
+" "
+"#"
+ENDBITMAP
+ENDCHAR
+
+ENDFONT

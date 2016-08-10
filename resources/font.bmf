@@ -1,0 +1,2172 @@
+STARTFONT 3.0
+FONT "Basic"
+CONTENTVERSION 1
+COMMENT "This is font from bmplib"
+
+
+
+STARTCHAR U+0021
+ENCODING 33
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"  "
+"  "
+"##"
+"##"
+"  "
+"  "
+"  "
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0022
+ENCODING 34
+BBX 8 17
+STARTBITMAP
+"##  ##"
+"##  ##"
+"##  ##"
+" #   #"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0023
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"     ##  ##  "
+"     ##  ##  "
+"    ##  ##  "
+"    ##  ##  "
+"  ##########"
+"  ##########"
+"    ##  ##  "
+"   ##  ##  "
+" ##########"
+" ##########"
+"   ##  ##  "
+"   ##  ##  "
+"  ##  ##  "
+"  ##  ##  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0024
+ENCODING 36
+BBX 8 17
+STARTBITMAP
+"    ##    "
+"    ##    "
+"  ########"
+"##  ##"
+"##  ##    "
+"##  ##    "
+"  ######  "
+"    ## ##"
+"    ##  ##"
+"    ##  ##"
+"    ## ##"
+"########"
+"    ##    "
+"    ##    "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0025
+ENCODING 37
+BBX 8 17
+STARTBITMAP
+"  ##     ##"
+" #  #    ##"
+"  ##     ##"
+"        ##"
+"       ##"
+"      ##"
+"     ##"
+"    ##"
+"   ##"
+"  ##"
+" ##"
+"##      ## "
+"##     #  #"
+"##      ## "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0026
+ENCODING 38
+BBX 8 17
+STARTBITMAP
+" #####"
+"##   ##"
+"##   ##"
+"##   ##"
+"##   ##"
+"##  ## "
+" ## ##   ##"
+" ####   ##"
+"##  ##  ##"
+"##   ####"
+"##     ##"
+"##     ##"
+" ##   ## ##"
+"  #####   ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0027
+ENCODING 39
+BBX 8 17
+STARTBITMAP
+"###"
+"###"
+" ##"
+"  #"
+" #"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0028
+ENCODING 40
+BBX 8 17
+STARTBITMAP
+"   ##"
+"  ##"
+" ##"
+" ##"
+" ##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+" ##"
+" ##"
+" ##"
+"  ##"
+"   ##"
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0029
+ENCODING 41
+BBX 8 17
+STARTBITMAP
+"##  "
+" ##  "
+"  ##"
+"  ##"
+"  ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"  ##"
+"  ##"
+"  ##"
+" ##"
+"##"
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002A
+ENCODING 42
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+"    ##"
+"##  ##  ##"
+" ## ## ##"
+"  ######"
+"   ####"
+"  ######"
+" ## ## ##"
+"##  ##  ##"
+"    ##"
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002B
+ENCODING 43
+BBX 8 17
+STARTBITMAP
+""
+""
+""
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"##########"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002C
+ENCODING 44
+BBX 8 17
+STARTBITMAP
+" "
+" "
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"###"
+"###"
+" ##"
+" ##"
+"#"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002D
+ENCODING 45
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+""
+""
+""
+"#######"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002E
+ENCODING 46
+BBX 8 17
+STARTBITMAP
+"  "
+"  "
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"###"
+"###"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+002F
+ENCODING 47
+BBX 8 17
+STARTBITMAP
+" "
+"     ##"
+"     ##"
+"    ##"
+"    ##"
+"   ##"
+"   ##"
+"   ##"
+"  ##"
+"  ##"
+" ##"
+" ##"
+"##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+###############################
+### TODO - require mapping more char to UNICODE
+###############################
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  #####  "
+" ##   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ##"
+"  #####  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR U+0031
+ENCODING 49
+BBX 8 17
+STARTBITMAP
+"   ##"
+"   ##"
+"  ###"
+"#####"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##   "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ####  "
+" ##  ##"
+"##    ##"
+"      ##"
+"      ##"
+"     ##"
+"    ##"
+"   ##"
+"  ##"
+" ##      "
+"##      "
+"##      "
+"##      "
+"########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"      ##"
+"      ##"
+"     ##"
+"    ##  "
+"   ##   "
+"  ####  "
+"     ##"
+"      ##"
+"      ##"
+"      ##"
+"##    ##"
+" ##  ##"
+"  ####  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"     ##"
+"    ###"
+"   ####"
+"  ## ##"
+" ##  ##"
+"##   ##"
+"#########"
+"     ##"
+"     ##"
+"     ##"
+"     ##"
+"     ##"
+"     ##"
+"     ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"##      "
+"##      "
+"##      "
+"##      "
+"###"
+" ######"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"##    ##"
+" ##  ##"
+"  ####  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ##### "
+" ##    #"
+"##      "
+"##      "
+"##      "
+"##      "
+"#######"
+"##    ##  "
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ##"
+"  #####  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"     ##"
+"     ##"
+"    ##"
+"    ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  #####  "
+" ##   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ##"
+"  #####  "
+" ##   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ##"
+"  #####  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  #####  "
+" ##   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##    ##"
+"  #######"
+"      ##"
+"      ##"
+"     ##"
+"     ##"
+"     ##"
+"    ##"
+"    ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+" "
+""
+""
+""
+"###"
+"###"
+""
+""
+""
+""
+"###"
+"###"
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+""
+"###"
+"###"
+""
+""
+""
+""
+"###"
+"###"
+" ##"
+" ##"
+"#"
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"      ##"
+"     ##"
+"    ##"
+"   ##"
+"  ##"
+" ##"
+"##"
+"##"
+" ##"
+"  ##"
+"   ##"
+"    ##"
+"     ##"
+"      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+""
+""
+"############"
+"############"
+"    "
+"    "
+"############"
+"############"
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      "
+" ##      "
+"  ##"
+"   ##"
+"    ##"
+"     ##"
+"      ##"
+"      ##"
+"     ##"
+"    ##"
+"   ##"
+"  ##"
+" ##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######  "
+" ##    ##"
+"##      ##"
+"##      ##"
+"        ##"
+"       ##"
+"     ###  "
+"    ##"
+"    ##"
+"    ##"
+""
+""
+"    ##"
+"    ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######  "
+" ##    ##"
+"##      ##"
+"##      ##"
+"##    ####"
+"##   ## ##"
+"##  ##  ##"
+"##  ##  ##"
+"##   ## ##"
+"##    ####"
+"##        "
+"##        "
+" ##     ##"
+"  #######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"    ##"
+"   ####"
+"   ####"
+"  ##  ##"
+"  ##  ##"
+"  ##  ##"
+"  ##  ##"
+" ##    ##"
+" ########"
+" ##    ##"
+" ##    ##"
+"##      ##"
+"##      ##"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"##     ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##     ##"
+"########  "
+"##     ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######  "
+" ##    ##"
+"##      ##"
+"##      ##"
+"##        "
+"##        "
+"##        "
+"##        "
+"##        "
+"##        "
+"##      ##"
+"##      ##"
+" ##    ##"
+"  ######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"##     ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##     ##  "
+"########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##########"
+"##"
+"##"
+"##"
+"##"
+"##"
+"########"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##########"
+"##"
+"##"
+"##"
+"##"
+"##"
+"########"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######  "
+" ##    ##"
+"##      ##"
+"##      ##"
+"##        "
+"##        "
+"##    ####"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+" ##    ###"
+"  ###### #"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##########"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" ## "
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+" ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"      ##"
+"##    ##"
+"##    ##"
+" ##  ##"
+"  ####"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##"
+"##     ##"
+"##    ##"
+"##   ##"
+"##  ##"
+"## ##"
+"####"
+"####"
+"## ##"
+"##  ##"
+"##   ##"
+"##    ##"
+"##     ##"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##         ##"
+"###       ###"
+"####     ####"
+"## ##   ## ##"
+"## ##   ## ##"
+"## ##   ## ##"
+"##  ## ##  ##"
+"##  ## ##  ##"
+"##  ## ##  ##"
+"##  ## ##  ##"
+"##  ## ##  ##"
+"##   ###   ##"
+"##   ###   ##"
+"##    #    ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##"
+"###     ##"
+"####    ##"
+"####    ##"
+"## ##   ##"
+"## ##   ##"
+"##  ##  ##"
+"##  ##  ##"
+"##   ## ##"
+"##   ## ##"
+"##    ####"
+"##    ####"
+"##     ###"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######  "
+" ##    ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+" ##    ##"
+"  ######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"##     ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##     ##"
+"########"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######"
+" ##    ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##  ##  ##"
+"##  ##  ##"
+"##   ## ##"
+"##    ###"
+" ##    ##"
+"  ##### ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"########"
+"##     ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##     ##"
+"########"
+"####"
+"## ##"
+"##  ##"
+"##   ##"
+"##    ##"
+"##     ##"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ######"
+" ##    ##"
+"##      ##"
+"##      ##"
+"##"
+" ###"
+"   #####"
+"       ##"
+"        ##"
+"        ##"
+"##      ##"
+"##      ##"
+" ##    ##"
+"  ######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##########"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+"##      ##"
+" ##    ##"
+"  ######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##       ##"
+"##       ##"
+" ##     ##"
+" ##     ##"
+" ##     ##"
+"  ##   ## "
+"  ##   ## "
+"  ##   ## "
+"   ## ##  "
+"   ## ##  "
+"   ## ##  "
+"    ###   "
+"    ###   "
+"     #    "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##      ##"
+"##      ##      ##"
+"##      ##      ##"
+" ##    ####    ##"
+" ##    ####    ##"
+" ##   ##  ##   ##"
+" ##   ##  ##   ##"
+"  ## ##    ## ##"
+"  ## ##    ## ##"
+"  ## ##    ## ##"
+"  ## ##    ## ##"
+"   ###      ###"
+"   ###      ###"
+"    #        #"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##"
+"##      ##"
+" ##    ##"
+" ##    ##"
+"  ##  ##"
+"  ##  ##"
+"    ##"
+"    ##"
+"  ##  ##"
+"  ##  ##"
+" ##    ##"
+" ##    ##"
+"##      ##"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##      ##"
+"##      ##"
+" ##    ##"
+" ##    ##"
+"  ##  ##"
+"  ##  ##"
+"   ####"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+"    ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"#########"
+"      ##"
+"      ##"
+"     ##"
+"     ##"
+"    ##"
+"    ##"
+"   ##"
+"   ##"
+"  ##"
+"  ##"
+" ##"
+" ##"
+"#########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"#####"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"#####"
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+" ##"
+"  ##"
+"   ##"
+"    ##"
+"     ##"
+"      ##"
+"       ##"
+"        ##"
+"        ##"
+"        ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"#####"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"#####"
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"    ##"
+"   ####"
+"  ##  ##"
+" ##    ##"
+"##      ##"
+"##      ##"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"########"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"####"
+"####"
+"##"
+" ##"
+"   #"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"  ######"
+" ##    ##"
+"       ##"
+"       ##"
+"   ######"
+" ##    ##"
+"##     ##"
+"##     ##"
+" ##    ##"
+"  ##### ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+"## ####"
+"###   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"###   ##"
+"## ####"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"  #####"
+" ##   ##"
+"##      "
+"##      "
+"##      "
+"##      "
+"##      "
+"##      "
+" ##   ##"
+"  #####"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"       ##"
+"       ##"
+"       ##"
+"       ##"
+"  #### ##"
+" ##   ###"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ###"
+"  #### ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"  #####"
+" ##   ##"
+"##     ##"
+"##     ##"
+"#########"
+"##"
+"##"
+"##"
+" ##    ##"
+"  ######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ####"
+" ##"
+" ## "
+" ## "
+"#####"
+" ## "
+" ## "
+" ## "
+" ## "
+" ## "
+" ## "
+" ## "
+" ## "
+" ## "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"  ##### #"
+" ##    ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##    ##"
+"  #######"
+"       ##"
+"##    ##"
+" ######"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+"## ####"
+"###   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+""
+""
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"   ##"
+"   ##"
+" "
+"     "
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"   ##"
+"  ##"
+"###"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+"##    ##"
+"##   ##"
+"##  ##  "
+"## ##  "
+"####    "
+"####    "
+"## ##  "
+"##  ##  "
+"##   ##"
+"##    ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"## ### ####"
+"###  ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+"##   ##   ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"## ####"
+"###   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"  #####"
+" ##   ## "
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ## "
+"  #####  "
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"## ####"
+"###   ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##    ##"
+"#######"
+"##"
+"##"
+"##"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"  #### ##"
+" ##   ###"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##    ##"
+"  #######"
+"       ##"
+"       ##"
+"       ##"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"##  ####"
+"## ##"
+"####"
+"###"
+"##"
+"##"
+"##"
+"##"
+"##"
+"##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+" #######"
+"##     ##"
+"##"
+" ##"
+"  ###"
+"    ###"
+"      ##"
+"       ##"
+"##     ##"
+" #######"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+"######"
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+"  ##"
+"   ####"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"        "
+""
+""
+""
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+"##     ##"
+" ##    ##"
+"  ##### #"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"##     ##"
+"##     ##"
+"##     ##"
+" ##   ##"
+" ##   ##"
+" ##   ##"
+"  ## ##"
+"  ## ##"
+"  #####"
+"   ###"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"##     ##     ##"
+"##     ##     ##"
+"##     ##     ##"
+" ##   ####   ##"
+" ##   ####   ##"
+" ##   ####   ##"
+"  ## ##  ## ##"
+"  ## ##  ## ##"
+"  #####  #####"
+"   ###    ###"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"##      ##"
+"##      ##"
+" ##    ##"
+"  ##  ##"
+"    ##"
+"    ##"
+"  ##  ##"
+" ##    ##"
+"##      ##"
+"##      ##"
+""
+""
+""
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+" "
+""
+""
+""
+"##      ##"
+"##      ##"
+"##      ##"
+" ##    ##"
+" ##    ##"
+" ##    ##"
+"  ##  ##"
+"  ##  ##"
+"  ##  ##"
+"   ####"
+"    ##"
+"   ##"
+"####"
+ENDBITMAP
+ENDCHAR
+
+STARTCHAR A+035
+ENCODING 35
+BBX 8 17
+STARTBITMAP
+"          "
+"          "
+"          "
+"          "
+"######### "
+"       ## "
+"      ##  "
+"     ##   "
+"    ##    "
+"   ##     "
+"  ##      "
+" ##       "
+"##        "
+"######### "
+"          "
+"          "
+"          "
+ENDBITMAP
+ENDCHAR
+
+ENDFONT
